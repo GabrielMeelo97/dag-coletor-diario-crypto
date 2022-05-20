@@ -1,0 +1,1 @@
+# coletor-diario-crypto
